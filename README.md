@@ -8,6 +8,7 @@ Dataset:
   Contains 43 classes of traffic signs.
   Total of more than 50,000 images.
   Split into training and testing datasets.
+
 Accuracy:
   95.95%
 
