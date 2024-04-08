@@ -1,7 +1,7 @@
-Traffic Sign Classification using Convolutional Neural Network (CNN Keras)
+Road Signs Identifications using Convolutional Neural Network (CNN Keras)
 
 ABOUT:
-  A robust and accurate model capable of recognizing and classifying traffic signs in various conditions.
+  A robust and accurate model capable of recognizing and classifying road signs in various conditions.
 
 Dataset:
   GTSRB - German Traffic Sign Recognition Benchmark [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign].
