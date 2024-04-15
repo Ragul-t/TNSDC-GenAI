@@ -14,4 +14,4 @@ Accuracy:
   97.79%
 
 DEMO LINK:
-  [https://drive.google.com/file/d/1jlHj1wHMdJpv7fmx-M6afgV89WtwjzPv/view?usp=share_link]
+  [https://drive.google.com/file/d/11qTIzzGDfqWByoODp7XusIqo9tN2Dh1F/view?usp=share_link]
