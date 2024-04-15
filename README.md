@@ -1,16 +1,17 @@
-Road Signs Identifications using Convolutional Neural Network (CNN Keras)
+Rice Type Classification using Convolutional Neural Network (CNN Keras)
 
 ABOUT:
-  A robust and accurate model capable of recognizing and classifying road signs in various conditions.
+  A robust and accurate model capable of recognizing and classifying rice.
 
 Dataset:
-  GTSRB - German Traffic Sign Recognition Benchmark [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign].
-  Contains 43 classes of traffic signs.
-  Total of more than 50,000 images.
+  Rice Image Dataset [ https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset].
+  Contains Five different Rice Image Dataset. 
+  Types:Arborio, Basmati, Ipsala, Jasmine, Karacadag 
+  Total of more than 75,000 images.
   Split into training and testing datasets.
 
 Accuracy:
-  95.95%
+  97.79%
 
 DEMO LINK:
-  https://drive.google.com/file/d/1IEpncNtYcmxjVFeO6XEK_wBa186K1cvh/view?usp=drive_link
+  [https://drive.google.com/file/d/1jlHj1wHMdJpv7fmx-M6afgV89WtwjzPv/view?usp=share_link]
